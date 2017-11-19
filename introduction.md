@@ -1,0 +1,1 @@
+Hey there! I'm doing the GitHub course for CodeSchool.
